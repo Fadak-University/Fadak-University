@@ -1,16 +1,14 @@
-## Hi there 👋
+![Cover](https://static.cdn.asset.aparat.com/profile-cover/2419416-1589.jpg)
 
-<!--
-**Fadak-University/Fadak-University** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋
 
-Here are some ideas to get you started:
+I'm Nasrin Asadi
+Assitant Professor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- python
+- java
+
+## Interests
+- Large Language Models
+- Data Mining
